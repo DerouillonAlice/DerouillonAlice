@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, Javascript, TailWindCSS**
 
-- 👨‍💻 All of my projects are available at [alice.sh/#portfolio](alice.sh/#portfolio)
+- 👨‍💻 All of my projects are available at [**alice.sh/#portfolio**](https://alice.sh/#portfolio)
 
-- 📫 How to reach me **contact@alice.sh**
+- 📫 How to reach me [**contact@alice.sh**](mailto:contact@alice.sh)
 
-- 📄 Know about my experiences [alice.sh/#a-propos](alice.sh/#a-propos)
+- 📄 Know about my experiences [**alice.sh/#a-propos**](https://alice.sh/#a-propos)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
