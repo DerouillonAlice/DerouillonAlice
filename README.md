@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML/CSS, PHP & Javascript**
 
-- 👨‍💻 All of my projects are available at [**[https://liens.alice.sh**](https://liens.alice.sh/))
+- 👨‍💻 All of my projects are available at [**https://liens.alice.sh**](https://liens.alice.sh/))
 
 - 📫 How to reach me [**contact@alice.sh**](mailto:contact@alice.sh)
 
