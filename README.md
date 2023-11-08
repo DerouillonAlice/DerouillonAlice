@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Alice 🥐</h1>
+<h1 align="center">Hi, I'm Alice </h1>
 <h3 align="center">A passionate web student from France !</h3>
 
-- 🌱 I’m currently learning **PHP, Laravel, Javascript & TailWindCSS**
+- 🌱 I’m currently learning **HTML/CSS, PHP & Javascript**
 
-- 👨‍💻 All of my projects are available at [**alice.sh/#portfolio**](https://alice.sh/#portfolio)
+- 👨‍💻 All of my projects are available at [**[https://liens.alice.sh**](https://liens.alice.sh/))
 
 - 📫 How to reach me [**contact@alice.sh**](mailto:contact@alice.sh)
 
-- 📄 Know about my experiences [**alice.sh/#a-propos**](https://alice.sh/#a-propos)
+- 📄 Know about my experiences [**alice.sh/**](https://alice.sh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
