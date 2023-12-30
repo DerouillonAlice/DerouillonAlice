@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alice! </h1>
-<h3 align="center">"A passionate web development student at IUT Troyes" </h3>
+<h3 align="center">A passionate web development student at IUT Troyes </h3>
 
 - 🌱 I’m currently learning **HTML/CSS, PHP & Javascript**
 
