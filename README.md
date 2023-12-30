@@ -17,19 +17,19 @@
 <a href="https://dev.to/derouillonalice" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="derouillonalice" height="30" width="40" /></a>
 </p>
 
-  <div align="center">
-### Langages & Frameworks
-
+  
+<h3 align="center">Langages & Frameworks</h3>
+<div align="center">
     <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,sass,js,py,mysql,sqlite" />
   </div>
 
-### Outils de Développement
+<h3 align="center">Outils de développement</h3>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode" />
   </div>
 
 
-### Design
+<h3 align="center">Design</h3>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=figma,ps,pr,ai" />
   </div>
