@@ -17,9 +17,9 @@
 <a href="https://dev.to/derouillonalice" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="derouillonalice" height="30" width="40" /></a>
 </p>
 
-
-### Langages & Frameworks
   <div align="center">
+### Langages & Frameworks
+
     <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,sass,js,py,mysql,sqlite" />
   </div>
 
