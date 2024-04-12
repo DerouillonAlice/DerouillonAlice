@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alice! </h1>
 <h3 align="center">A passionate web development student at IUT Troyes </h3>
 
-- 🌱 I’m currently learning **HTML/CSS, PHP & Javascript**
+- 🌱 I’m currently learning **PHP & Javascript**
 
 - 👨‍💻 All of my projects are available at [**https://liens.alice.sh**](https://liens.alice.sh/)
 
