@@ -18,7 +18,7 @@
   
 <h3 align="center">Languages & Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,sass,js,py,mysql,sqlite,vuejs" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,sass,js,py,mysql,vuejs" />
   </div>
 
 <h3 align="center">Development Tools</h3>
