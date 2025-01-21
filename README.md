@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [**https://liens.alice.sh**](https://liens.alice.sh/)
 
-- 📫 How to reach me [**contact@alice.sh**](mailto:contact@alice.sh)
+- 📫 How to reach me [**contact@alicedr.com**](mailto:contact@alicedr.com)
 
 - 📄 Know about my experiences [**alice.sh/**](https://alice.sh/)
 
