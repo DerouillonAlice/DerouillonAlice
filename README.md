@@ -1,13 +1,12 @@
 <h1 align="center">Hi, I'm Alice! </h1>
-<h3 align="center">A passionate web development student at IUT Troyes </h3>
+<h3 align="center">A passionate web development student at IUT Troyes and in apprenticeship at Zetruc </h3>
 
-- 🌱 I’m currently learning **PHP & VueJS**
+- 🌱 I’m currently learning **VueJS**
 
-- 👨‍💻 All of my projects are available at [**https://liens.alice.sh**](https://liens.alice.sh/)
+- 👨‍💻 All of my projects are available at [**https://alicedr.com**](https://alicedr.com/)
 
 - 📫 How to reach me [**contact@alicedr.com**](mailto:contact@alicedr.com)
 
-- 📄 Know about my experiences [**alice.sh/**](https://alice.sh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,7 +17,7 @@
   
 <h3 align="center">Languages & Frameworks</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,sass,js,py,mysql,vuejs" />
+    <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,sass,js,symfony,mysql,vuejs,wordpress" />
   </div>
 
 <h3 align="center">Development Tools</h3>
