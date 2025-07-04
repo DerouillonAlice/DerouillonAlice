@@ -31,4 +31,4 @@
     <img src="https://skillicons.dev/icons?i=figma,ps,pr,ai" />
   </div>
 
-  [![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerouillonAlice)](https://github.com/DerouillonAlice/github-readme-stats)
+
