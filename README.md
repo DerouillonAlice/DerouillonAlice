@@ -22,15 +22,19 @@
 
 ### 🔗 Get in Touch
 
-<p align="left">
-<a href="https://alicedr.com" target="_blank">🌐 Portfolio</a> • 
-<a href="mailto:contact@alicedr.com">📧 Email</a> • 
-<a href="https://linkedin.com/in/alicederouillon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /> LinkedIn</a>
+<p align="center">
+  <a href="https://alicedr.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-alicedr.com-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:contact@alicedr.com">
+    <img src="https://img.shields.io/badge/Email-contact@alicedr.com-4A90E2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/alicederouillon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-alicederouillon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
-
-<h3 align="center">💻 Technologies & Tools</h3>
 
 <h3 align="center">💻 Technologies & Tools</h3>
 <h4 align="center">Web Development</h4>
