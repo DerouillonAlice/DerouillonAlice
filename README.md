@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 What I Do
+###  What I Do
 
 -  **Custom WordPress Development** - Themes, plugins, and tailored websites
 -  **E-commerce Solutions** - PrestaShop and WooCommerce stores
@@ -15,7 +15,7 @@
 -  **No-code Automation** - n8n and intelligent workflows
 -  **Collaboration** - Working with design, SEO, and communication teams
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - Advancing in **WordPress development**
 - Exploring **automation** 
@@ -32,25 +32,23 @@
 
 <h3 align="center">💻 Technologies & Tools</h3>
 
+<h3 align="center">💻 Technologies & Tools</h3>
 <h4 align="center">Web Development</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,mysql,html,css,js,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=wordpress,php,js,vuejs,symfony,tailwind,html,css" />
 </div>
-
-<h4 align="center">Frameworks & CMS</h4>
+<h4 align="center">Design & Graphics</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=symfony,vuejs,nodejs" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" />
 </div>
-
-<h4 align="center">Tools & DevOps</h4>
+<h4 align="center">Tools & Automation</h4>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,github,linux,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,notion,vscode" />
 </div>
-
-<h4 align="center">Design & Creation</h4>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,ai" />
-</div>
+<h4 align="center">Marketing & Communication</h4>
+<p align="center">
+  📧 Emailing • 📊 Google Analytics • 🔍 SEO • 📱 Social Media  • 🤖 n8n • 🎨 Canva
+</p>
 
 ---
 
