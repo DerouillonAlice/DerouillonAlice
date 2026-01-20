@@ -1,3 +1,5 @@
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DerouillonAlice)
+
 <h1 align="center">Hi, I'm Alice! 👋</h1>
 <h3 align="center">WordPress & Web Developer • Apprentice at Zetruc</h3>
 
